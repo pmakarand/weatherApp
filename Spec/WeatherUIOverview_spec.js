@@ -1,5 +1,5 @@
 /**
- * Created by makarandp on 11/09/16.
+ * Created by makarandp.
  * This Test-case verifies the Weather APP overview Page functionality
  */
 
@@ -12,7 +12,7 @@ describe('VERIFY WEATHER APP PAGE', function () {
     var apiURL = browser.params.weatherAPI;
     var WeatherPage = require('../ObjRep/weatherOverview.js');
     var TestData = require('../TestData/TestData.json');
-    //var apiFile= require('../TestData/apiFiles/diveshopAPI.json');
+  
     
 
     beforeEach(function () {

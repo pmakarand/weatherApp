@@ -1,5 +1,5 @@
 /**
- * Created by makarandp on 11/09/16.
+ * Created by makarandp.
  * This Test-case verifies the Proxy API values are
  *  rendered correctly on UI
  *
