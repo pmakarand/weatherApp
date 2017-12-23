@@ -1,0 +1,13 @@
+{
+	"ValidAddress": "Irvine, CA",
+	"InvalidCity": "tuktuk, CA",
+	"ExactAddress": "200 Spectrum, Irvine, CA",
+	"InvalidString": "wertertertt",
+	"CityFromOtherCountry": "Rio de Janeiro, Brazil",
+	"CountryName": "Germany",
+	"ContinentName": "Asia",
+	"ValidZip": "92618",
+	"InvalidZip": "926181",
+	"LongAddress": "This is a large Text entered in this textbox.This is a large Text entered in this textbox.This is a large Text entered in this textbox.This is a large Text entered in this textbox.",
+	"AddresswithSplChar": "$tockton, CA"
+}
